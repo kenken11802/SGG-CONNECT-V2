@@ -5,7 +5,8 @@ const AboutUs = () => {
         <div style={styles.content}>
           <h1>About Us</h1>
           <p>
-            Welcome to our ssg connect digital platform, 
+            Welcome to our ssg connect digital platform,
+            This Website 
             
           </p>
         </div>
