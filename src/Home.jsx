@@ -3,7 +3,7 @@ const HomePage = () => {
     <div style={styles.body}>
       <div style={styles.content}>
         <h1 style={styles.homeText}>Home</h1>
-        <h1>SSG CONNECT</h1>
+        <h1>SSG CONNECT DIGITAL PLATFORM</h1>
         <p></p>
       </div>
     </div>
