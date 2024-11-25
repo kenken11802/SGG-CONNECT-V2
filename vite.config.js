@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/supply-office-v2/',
+  base: '/SGG-CONNECT-V2/',
   plugins: [react()],
 })
